@@ -2368,6 +2368,22 @@
 			color: #8cc9f0;
 		}
 
+		.statistics h3{
+			font-size: 1em
+		}
+
+		#project-title {
+		margin: 0 0 .05em 0
+		}
+
+		.last-child{
+			margin-bottom: 2em
+		}
+
+		.style1 img {
+			max-width: 80%
+		}
+
 		@media screen and (max-width: 1680px) {
 
 			.icon.major:before {
@@ -2930,7 +2946,7 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #2F4F4F
 			}
 
 			.statistics li.style2 {
@@ -3395,7 +3411,7 @@
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #dddddd;
 		}
 
 		#main blockquote {
